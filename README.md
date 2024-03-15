@@ -4,6 +4,8 @@
 
 You can download the CSV data here.
 
+[download](https://github.com/tusharhero/electoral-bonds-data/archive/refs/heads/master.zip "download zip")
+
 # How was this obtained?
 
 It was extracted from the PDFs released by the Election Commission of
